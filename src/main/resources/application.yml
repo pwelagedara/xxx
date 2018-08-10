@@ -1,0 +1,23 @@
+#apiController:
+#    getProductApiList:
+#        value: Returns List of APIs from the Product
+#        notes: This endpoint can be used to obtain the list of APIs and their descriptions available within the Product
+#    getApiDetails:
+#        value: Returns Details of a specific API
+#        notes: This endpoint can be used to obtain information about a specific API
+#    getApiSwagger:
+#        value: Returns Swagger Spec of an API
+#        notes: This endpoint can be used to obtain the Swagger documentation for a specific API
+
+info:
+  build:
+    artifact: srtifactss
+    name: namefff
+    description: descccc
+    version: versss
+
+cics-map:
+  create:
+    name: one
+  delete:
+    name: two
